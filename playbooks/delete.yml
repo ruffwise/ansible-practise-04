@@ -12,5 +12,5 @@
   - name: Install wireshark
     apt:
       name: wireshark
-      state: latest
+      state: absent
      
