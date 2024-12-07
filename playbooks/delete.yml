@@ -9,8 +9,9 @@
     apt:
       update_cache: yes
   
-  - name: Install wireshark
-    apt:
-      name: wireshark
+  - name: UnInstall wireshark
+    ansible.builtin.apt:
+      name: application_name
       state: absent
+      update_cache: yes
      
