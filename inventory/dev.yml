@@ -1,0 +1,2 @@
+[ngnix]
+3.80.53.25 ansible_ssh_user=ubuntu;
