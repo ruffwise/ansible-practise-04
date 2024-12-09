@@ -1,3 +1,3 @@
 # ansible-practise-04
-#Testing #Testing #Testing #Testing
+#Testing #Testing
 
