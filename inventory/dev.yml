@@ -1,8 +1,6 @@
 [ngnix]
 172.31.29.33 ansible_ssh_user='ubuntu'
 
-[webserver-1]
+[webservers]
 172.31.28.77 ansible_ssh_user='ec2-user'
-
-[webserver-2]
 172.31.30.229 ansible_ssh_user='ec2-user'
